@@ -1,0 +1,2 @@
+borax==4.0.0
+streamlit==1.32.0
